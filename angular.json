@@ -102,7 +102,6 @@
       }
     }
   },
-  "defaultProject": "assets",
   "cli": {
     "analytics": false
   }
