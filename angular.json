@@ -102,5 +102,8 @@
       }
     }
   },
-  "defaultProject": "assets"
+  "defaultProject": "assets",
+  "cli": {
+    "analytics": false
+  }
 }
